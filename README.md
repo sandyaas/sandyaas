@@ -14,7 +14,7 @@
 <div class="container">
     <div class="section" id="about">
         <h2>Tentang Lee Dong-wook</h2>
-        <p>Halo, nama Lee Dong-wook. Lahir 6 November 1981 adalah seorang aktor korea selatan yang sangat tampan dan baik hati. Ia terkenal karena peran utamanya dalam drama televisi My girl. Dan pernah menempuh pendidikan di Universitas Joongbu, di jurusan penyiaran dan seni media. </p>
+        <p>Halo, nama Lee Dong-wook. Lahir 6 November 1981 adalah seorang aktor korea selatan yang sangat tampan dan baik hati. Ia terkenal karena peran utamanya dalam drama televisi My girl. Dan pernah menempuh pendidikan di Universitas Joongbu, di jurusan penyiaran dan seni media. Ia juga memiliki akun fanbase yang bernama @wookdonglee_official. </p>
     </div>
 
     <div class="section" id="projects">
