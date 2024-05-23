@@ -11,7 +11,7 @@
     <h1>Portfolio Lee Dong-wook</h1>
 </header>
 
-![alt teks](?raw=true)
+![alt teks](https://github.com/sandyaas/sandyaas/blob/main/Lee_Dongwook_(%EC%9D%B4%EB%8F%99%EC%9A%B1)2023_01.jpg?raw=true)
 
 <div class="container">
     <div class="section" id="about">
