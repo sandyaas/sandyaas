@@ -25,10 +25,10 @@
         </div>
     </div>
 
-    <div class="section" id="contact">
+<header>
         <h2>Kontak</h2>
         <p>Anda dapat menghubungi saya melalui email: <a href="mailto:email@example.com">sandyaalwisa10@gmail.com</a></p>
-    </div>
+</header>
 </div>
 
 </body>
