@@ -11,6 +11,8 @@
     <h1>Portfolio Lee Dong-wook</h1>
 </header>
 
+![alt teks](?raw=true)
+
 <div class="container">
     <div class="section" id="about">
         <h2>Tentang Lee Dong-wook</h2>
