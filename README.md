@@ -19,7 +19,7 @@
         <h2>Fakta imut nya </h2></h2>
         <div class="project">
             <div class="project-item">
-                <p>Menjadi salah satu aktor yang lahir dan besar di Seoul, ia lahir pada 6 November 1981 dan merupakan anak sulung dari empat bersaudara. Fakta yang satu ini tentu saja bisa terlihat jelas karena Dong Wook memang memiliki aura keren dan tangguhnya anak pertama. Walaupun memiliki aura demikian, penggemar dari Dong Wook tetap memberikan nama panggilan yang imut kepadanya, yaitu Wookie!</p>
+                <p>Menjadi salah satu aktor yang lahir dan besar di Seoul, ia lahir pada 6 November 1981 berzodiak Scorpio dan merupakan anak sulung dari empat bersaudara. Fakta yang satu ini tentu saja bisa terlihat jelas karena Dong Wook memang memiliki aura keren dan tangguhnya anak pertama. Walaupun memiliki aura demikian, penggemar dari Dong Wook tetap memberikan nama panggilan yang imut kepadanya, yaitu Wookie!</p>
             <div class="project-item">
                 <p>Bagi kamu yang baru tersihir ketampanannya saat melihat aktingnya di ‘Goblin’ bersama Gong Yoo dan Kim Go Eun, kamu perlu melihat drakor pertama yang ia bintangi dan berhasil membuatnya mendapatkan banyak tawaran di tahun-tahun selanjutnya. Yup, tak lain adalah drakor ‘School 2’ yang tayang pada tahun 1999. Lee Dong Wook merupakan salah satu rising actor yang menarik perhatian pada era tersebut. Melalui debutnya di ‘School 2’, ia berhasil mendapatkan peran pada drakor hits tahun 2005 yaitu ‘My Girl’.</p>
             <div class="project-item">
